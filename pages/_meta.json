@@ -1,0 +1,32 @@
+{
+  "index": {
+    "title": "首頁",
+    "type": "page"
+  },
+  "learning-note": {
+    "title": "學習筆記",
+    "type": "page",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": true,
+      "pagination": true
+    }
+  },
+  "blog": {
+    "title": "文章",
+    "type": "page",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": false,
+      "toc": false,
+      "pagination": false
+    }
+  },
+  "about": {
+    "title": "關於我",
+    "type": "page"
+  }
+}
